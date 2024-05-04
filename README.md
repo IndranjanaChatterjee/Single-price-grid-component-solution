@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Ping-single-column-coming-soon-page)
-- Live Site URL: [live site URL](https://ping-single-column-coming-soon-page-ten-iota.vercel.app/)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Single-price-grid-component-solution)
+- Live Site URL: [live site URL](https://single-price-grid-component-solution-tau.vercel.app/)
 
 
 ## My process
